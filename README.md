@@ -8,7 +8,7 @@
 
 ## 快速使用
 
-简单接入的文档
+使用文档
 
 ## 交流
 https://github.com/52yl/hSpeed-cache/issues
