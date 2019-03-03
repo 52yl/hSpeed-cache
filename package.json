@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "webpack",
-	"example":"http-server -p 8880"
+    "example": "http-server -p 8880"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "babel-loader": "^7.1.5"
+    "babel-loader": "^7.1.5",
+    "user": "0.0.0"
   }
 }
